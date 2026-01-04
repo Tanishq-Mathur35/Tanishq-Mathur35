@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Tanishq Mathur
 
-<!--
-**Tanishq-Mathur35/Tanishq-Mathur35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 College Student | 🤖 Machine Learning Enthusiast | 💻 Python Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔍 Learning **Machine Learning & Data Science**
+- 🧠 Exploring algorithms and real-world applications
+- 🛠️ Building hands-on projects using Python
+- 📚 Improving DSA & problem-solving skills
+
+---
+
+## 🚀 Skills
+- Programming: Python, C, C++
+- Machine Learning: Scikit-learn, Pandas, NumPy
+- Data Analysis: Matplotlib, Seaborn
+- Tools: Git, GitHub, Jupyter Notebook
+
+---
+
+## 📂 Projects
+- 🔹 Machine Learning Projects
+- 🔹 ML Algorithms from Scratch
+- 🔹 Flask & ML Integration
+- 🔹 Frontend Projects (HTML, CSS, JS)
+
+---
+
+## 📫 Contact
+- 📧 Email: tanishqmathur975@gmail.com
+- 🌐 GitHub: https://github.com/Tanishq-Mathur35
+
+---
+
+⭐ *Always learning and growing*
