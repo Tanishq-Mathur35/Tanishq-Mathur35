@@ -1,37 +1,18 @@
-# Hi 👋, I'm Tanishq Mathur
+# 💫 About Me:
+🔭 I’m currently working on<br><br>Machine Learning projects using Python<br><br>Implementing ML algorithms from scratch<br><br>Flask-based ML web applications<br><br>👯 I’m looking to collaborate on<br><br>Machine Learning & Data Science projects<br><br>Open-source Python or ML repositories<br><br>Real-world AI/ML applications<br><br>🤝 I’m looking for help with<br><br>Advanced Machine Learning concepts<br><br>Model optimization & deployment<br><br>Competitive programming and DSA<br><br>🌱 I’m currently learning<br><br>Machine Learning & Data Science<br><br>Data Structures & Algorithms<br><br>Flask, Git, and GitHub workflows<br><br>💬 Ask me about<br><br>Python programming<br><br>Machine Learning basics<br><br>Data analysis with Pandas & NumPy<br><br>⚡ Fun fact<br><br>I love turning complex ML concepts into simple, working projects 🚀
 
-🎓 College Student | 🤖 Machine Learning Enthusiast | 💻 Python Developer
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1451467147216814090) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanishq-mathur-a13b3b3a2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishqmathur975@gmail.com) 
 
-## 👨‍💻 About Me
-- 🔍 Learning **Machine Learning & Data Science**
-- 🧠 Exploring algorithms and real-world applications
-- 🛠️ Building hands-on projects using Python
-- 📚 Improving DSA & problem-solving skills
-
----
-
-## 🚀 Skills
-- Programming: Python, C, C++
-- Machine Learning: Scikit-learn, Pandas, NumPy
-- Data Analysis: Matplotlib, Seaborn
-- Tools: Git, GitHub, Jupyter Notebook
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tanishq-Mathur35&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tanishq-Mathur35&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-Mathur35&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Tanishq-Mathur35&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-- 🔹 Machine Learning Projects
-- 🔹 ML Algorithms from Scratch
-- 🔹 Flask & ML Integration
-- 🔹 Frontend Projects (HTML, CSS, JS)
-
----
-
-## 📫 Contact
-- 📧 Email: tanishqmathur975@gmail.com
-- 🌐 GitHub: https://github.com/Tanishq-Mathur35
-
----
-
-⭐ *Always learning and growing*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
