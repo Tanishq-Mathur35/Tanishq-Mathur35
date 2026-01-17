@@ -62,7 +62,7 @@
 - 🔹 Machine Learning Projects
 - 🔹 Deep Learning Mini Projects
 - 🔹 ML Algorithms from Scratch
-- 🔹 Frontend Projects (HTML, CSS, JavaScript)
+- 🔹 Frontend Development 
 
 ---
 
