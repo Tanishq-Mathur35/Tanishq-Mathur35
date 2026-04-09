@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanishq-Mathur35&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Generative+AI+Explorer;Node.js+Backend+Developer;React+Frontend+Developer;Building+Real+World+Projects">
 </p>
 
@@ -30,45 +34,24 @@
 ### 🤖 Machine Learning & Data
 - Scikit-learn
 - Pandas, NumPy
-- Data Preprocessing & Feature Engineering
 
 ### 🧠 Deep Learning
 - TensorFlow, Keras (Basics)
-- Neural Networks
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 - Node.js
 - Express.js
 - REST APIs
-- Authentication & RBAC
 
 ### ⚛️ Frontend
 - React.js
-- HTML, CSS, JS
-
-### 🧰 Tools
-- Git & GitHub
-- Jupyter Notebook
 
 ---
 
-## 📊 GitHub Stats (Top Profile Boost 🚀)
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-Mathur35&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq-Mathur35&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-Mathur35&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanishq-Mathur35&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -81,75 +64,45 @@
 
 ---
 
-## 📂 Featured Projects (VERY IMPORTANT FOR PLACEMENTS)
+## 📂 Featured Projects
 
-### 🔹 Fintech Ledger System (Backend)
+### 🔹 Fintech Ledger System  
 🔗 https://github.com/Tanishq-Mathur35/fintech-ledger-system  
-- Built a **ledger-based transaction system** (real fintech architecture)
-- Implemented **idempotent APIs** for safe retries
-- Used **double-entry accounting model**
-- Focus on **data consistency & reliability**
+- Ledger-based architecture  
+- Idempotent transactions  
+- Double-entry system  
 
-👉 Shows: Backend depth + System Design
+👉 Backend + System Design
 
 ---
 
-### 🔹 Music Backend API
+### 🔹 Music Backend API  
 🔗 https://github.com/Tanishq-Mathur35/music-backend-api  
-- Node.js backend with:
-  - Authentication (JWT)
-  - Role-based access control
-  - Music uploads & album management
-- RESTful API design
+- JWT Auth + RBAC  
+- Upload system + APIs  
 
-👉 Shows: Backend + Auth + API design
+👉 Backend Engineering
 
 ---
 
-### 🔹 Generative AI Project (RAG Foundation)
+### 🔹 GenAI Project (RAG)  
 🔗 https://github.com/Tanishq-Mathur35/GenAI-Part-1  
-- Built modular GenAI system using:
-  - Mistral / HuggingFace
-  - Embeddings pipeline
-  - RAG architecture base
-- Foundation for building AI apps
+- Embeddings + LLM pipeline  
+- Modular AI system  
 
-👉 Shows: Future-ready AI skills 🔥
+👉 AI/ML + Future Tech
 
 ---
 
-### 🔹 React Learning Projects
+### 🔹 React Projects  
 🔗 https://github.com/Tanishq-Mathur35/react-complete-learning  
-- Hands-on React projects
-- Hooks, routing, reusable components
-- Frontend architecture basics
-
-👉 Shows: Full-stack capability
 
 ---
 
-### 🔹 Machine Learning Projects
-🔗 (Add your ML repo link here)  
-- Implemented ML algorithms using sklearn
-- Data preprocessing & model evaluation
-- Real dataset experiments
-
-👉 Shows: Core ML skills (VERY important)
+## 📫 Contact
+- 📧 tanishqmathur975@gmail.com
+- 🌐 https://github.com/Tanishq-Mathur35
 
 ---
 
-## 📌 What Makes Me Different
-- 🧠 Combine **ML + Backend + GenAI**
-- ⚙️ Focus on **real-world systems (not just tutorials)**
-- 📈 Continuous improvement mindset
-- 🚀 Building **placement-ready projects**
-
----
-
-## 📫 Contact Me
-- 📧 Email: **tanishqmathur975@gmail.com**
-- 🌐 GitHub: https://github.com/Tanishq-Mathur35
-
----
-
-⭐ **Focused on becoming a high-impact ML Engineer 🚀**
+⭐ Focused on becoming a high-impact ML Engineer 🚀
