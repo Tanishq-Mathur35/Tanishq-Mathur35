@@ -30,7 +30,8 @@
 ### 🖥️ Programming
 - Python 🐍
 - JavaScript ⚡
-- C / C++
+- C
+- Java
 
 ### 🤖 Machine Learning & Data
 - Scikit-learn
