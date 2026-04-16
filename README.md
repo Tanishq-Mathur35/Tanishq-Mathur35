@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Mathur</h1>
 
 <p align="center">
-  🎓 College Student | 🤖 ML & GenAI Enthusiast | 💻 Full-Stack Developer
+  💻 Backend & AI Systems Developer | 🤖 LLM & GenAI Engineer | ⚙️ Building Scalable Systems
 </p>
 
 <p align="center">
@@ -15,13 +15,23 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Aspiring **Machine Learning / Data Engineer (12–15 LPA goal)**
-- 🤖 Exploring **Generative AI (RAG, LLMs, Embeddings)**
-- ⚙️ Learning **Backend Development (Node.js, APIs, Systems Design)**
-- ⚛️ Built projects using **React (Frontend)**
-- 🧠 Strong focus on **DSA + Problem Solving**
-- 📊 Interested in **real-world ML systems & scalable architectures**
-- 💡 Interested in building **production-grade, scalable ML + backend systems**
+- 🎯 Aspiring **Machine Learning / Backend Engineer**
+- 🤖 Building systems around **LLMs, RAG, and AI-driven applications**
+- ⚙️ Focused on **backend architecture, API design, and system reliability**
+- ⚛️ Experienced in **React-based frontend development**
+- 🧠 Strong foundation in **Data Structures & Problem Solving**
+- 📊 Interested in **designing scalable ML systems and real-world AI pipelines**
+- 💡 Currently working on **end-to-end AI + backend integrated systems**
+
+---
+
+## 🧠 Engineering Focus
+
+- Designing **fault-tolerant backend systems**
+- Building **LLM pipelines with structured outputs (Zod validation)**
+- Handling **file uploads, parsing, and preprocessing workflows**
+- Applying **system design principles in real-world projects**
+- Bridging **ML models with production-ready APIs**
 
 ---
 
@@ -85,7 +95,7 @@
 - Modeled **transaction integrity constraints** inspired by real-world fintech systems  
 - Focused on **fault-tolerant design, retry safety, and data consistency**  
 
-👉 **Tech:** Node.js, Express.js, (add DB if used e.g., MongoDB/PostgreSQL)  
+👉 **Tech:** Node.js, Express.js, MongoDB  
 👉 **Demonstrates:** Backend Architecture + System Reliability  
 
 ---
@@ -94,15 +104,14 @@
 🔗 https://github.com/Tanishq-Mathur35/AI-Interview-Assistant-Full-Stack  
 
 - Built a full-stack AI system that analyzes resumes and job descriptions to generate structured interview insights using LLMs  
-- Designed an **LLM orchestration pipeline** with prompt structuring and response validation using Zod to ensure consistent outputs  
-- Implemented **resume parsing and file handling** using Multer, handling multipart uploads and preprocessing for AI consumption  
-- Developed a **schema-driven response layer** to enforce type safety and prevent malformed AI outputs  
+- Designed an **LLM orchestration pipeline** with prompt engineering and schema validation (Zod) to ensure reliable outputs  
+- Implemented **resume upload and preprocessing pipeline** using Multer for handling unstructured input data  
+- Enforced **structured AI responses** to mitigate hallucinations and maintain consistency  
 - Automated **PDF resume generation** using Puppeteer for production-ready output  
-- Structured backend with **controller-service architecture** to isolate AI logic and improve maintainability  
+- Applied **controller-service architecture** to isolate AI logic and improve scalability  
 
 👉 **Tech:** Node.js, Express.js, React.js, Mistral AI, Zod, Puppeteer, Multer  
-👉 **Demonstrates:** AI Integration + Backend Architecture + Data Validation
-
+👉 **Demonstrates:** AI Systems + Backend Architecture + Reliability Engineering
 ---
 
 ### 🔹 Music Backend API  
@@ -168,4 +177,5 @@
 
 ---
 
-⭐ **Focused on becoming a high-impact ML Engineer 🚀**
+---
+⭐ **Focused on building reliable AI systems and backend architectures that scale beyond prototypes**
