@@ -90,6 +90,21 @@
 
 ---
 
+### 🔹 AI Interview Assistant (Full Stack)  
+🔗 https://github.com/Tanishq-Mathur35/AI-Interview-Assistant-Full-Stack  
+
+- Built a full-stack AI system that analyzes resumes and job descriptions to generate structured interview insights using LLMs  
+- Designed an **LLM orchestration pipeline** with prompt structuring and response validation using Zod to ensure consistent outputs  
+- Implemented **resume parsing and file handling** using Multer, handling multipart uploads and preprocessing for AI consumption  
+- Developed a **schema-driven response layer** to enforce type safety and prevent malformed AI outputs  
+- Automated **PDF resume generation** using Puppeteer for production-ready output  
+- Structured backend with **controller-service architecture** to isolate AI logic and improve maintainability  
+
+👉 **Tech:** Node.js, Express.js, React.js, Mistral AI, Zod, Puppeteer, Multer  
+👉 **Demonstrates:** AI Integration + Backend Architecture + Data Validation
+
+---
+
 ### 🔹 Music Backend API  
 🔗 https://github.com/Tanishq-Mathur35/music-backend-api  
 
