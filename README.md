@@ -121,10 +121,10 @@
 - Built a **scalable Node.js + Express REST API** with JWT-based authentication  
 - Implemented **role-based access control (RBAC)** for secure and protected endpoints  
 - Designed APIs for **media uploads, album management, and user operations**  
-- Structured backend using **modular and maintainable architecture patterns**  
-
-👉 **Tech:** Node.js, Express.js, JWT, MongoDB 
-👉 **Demonstrates:** API Design + Authentication + Backend Engineering  
+- Structured backend using **modular and maintainable architecture patterns**
+- 
+👉 **Tech:** Node.js, Express.js, JWT, MongoDB
+👉 **Demonstrates:** API Design + Authentication + Backend Engineering
 
 ---
 
