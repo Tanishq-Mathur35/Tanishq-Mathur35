@@ -88,18 +88,18 @@
 ## 📂 Featured Projects
 ---
 
-### 🔹 AI Interview Assistant (Full Stack)  
-🔗 https://github.com/Tanishq-Mathur35/AI-Interview-Assistant-Full-Stack  
+### 🔹 Fintech Ledger System (Backend)
+🔗 https://github.com/Tanishq-Mathur35/fintech-ledger-system
 
-- Built a full-stack AI system that analyzes resumes and job descriptions to generate structured interview insights using LLMs  
-- Designed an **LLM orchestration pipeline** with prompt engineering and schema validation (Zod) to ensure reliable outputs  
-- Implemented **resume upload and preprocessing pipeline** using Multer for handling unstructured input data  
-- Enforced **structured AI responses** to mitigate hallucinations and maintain consistency  
-- Automated **PDF resume generation** using Puppeteer for production-ready output  
-- Applied **controller-service architecture** to isolate AI logic and improve scalability  
+* Built a backend ledger system to manage financial transactions with consistency and accuracy
+* Implemented **double-entry accounting logic** to ensure balanced and traceable transactions
+* Designed APIs for **transaction recording, account management, and balance tracking**
+* Ensured **data integrity and atomic operations** to prevent inconsistencies in financial records
+* Structured the application using a **modular backend architecture** for scalability and maintainability
+* Handled edge cases like **concurrent updates and transaction validation**
 
-👉 **Tech:** Node.js, Express.js, React.js, Mistral AI, Zod, Puppeteer, Multer  
-👉 **Demonstrates:** AI Systems + Backend Architecture + Reliability Engineering
+👉 **Tech:** Node.js, Express.js, Database (SQL/NoSQL), REST APIs
+👉 **Demonstrates:** Backend Systems + Financial Logic + Data Consistency
 
 ---
 
