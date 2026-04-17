@@ -86,18 +86,6 @@
 ---
 
 ## 📂 Featured Projects
-
-### 🔹 Fintech Ledger System (Backend)  
-🔗 https://github.com/Tanishq-Mathur35/fintech-ledger-system  
-
-- Designed a **scalable double-entry ledger system** ensuring atomic and consistent transactions  
-- Implemented an **idempotent API layer** to prevent duplicate financial operations  
-- Modeled **transaction integrity constraints** inspired by real-world fintech systems  
-- Focused on **fault-tolerant design, retry safety, and data consistency**  
-
-👉 **Tech:** Node.js, Express.js, MongoDB  
-👉 **Demonstrates:** Backend Architecture + System Reliability  
-
 ---
 
 ### 🔹 AI Interview Assistant (Full Stack)  
@@ -115,19 +103,6 @@
 
 ---
 
-### 🔹 Music Backend API  
-🔗 https://github.com/Tanishq-Mathur35/music-backend-api  
-
-- Built a **scalable Node.js + Express REST API** with JWT-based authentication  
-- Implemented **role-based access control (RBAC)** for secure and protected endpoints  
-- Designed APIs for **media uploads, album management, and user operations**  
-- Structured backend using **modular and maintainable architecture patterns**
-- 
-👉 **Tech:** Node.js, Express.js, JWT, MongoDB
-👉 **Demonstrates:** API Design + Authentication + Backend Engineering
-
----
-
 ### 🔹 Generative AI Project (RAG Foundation)  
 🔗 https://github.com/Tanishq-Mathur35/GenAI-Part-1  
 
@@ -138,18 +113,7 @@
 
 👉 **Tech:** Python, HuggingFace, LLMs, Embeddings  
 👉 **Demonstrates:** Applied GenAI + Modern AI Systems  
-
----
-
-### 🔹 React Learning Projects  
-🔗 https://github.com/Tanishq-Mathur35/react-complete-learning  
-
-- Built multiple applications using **React hooks, routing, and reusable components**  
-- Focused on **component-driven architecture and state management fundamentals**  
-
-👉 **Tech:** React.js, JavaScript, HTML, CSS  
-👉 **Demonstrates:** Frontend Development + UI Architecture  
-
+  
 ---
 
 ### 🔹 Machine Learning Projects  
