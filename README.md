@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Mathur</h1>
 
 <p align="center">
-  💻 Backend & AI Systems Developer | 🤖 LLM & GenAI Engineer | ⚙️ Building Scalable Systems
+  💻 Backend Developer | 🤖 AI & LLM Engineer | ⚙️ Scalable Systems Builder
 </p>
 
 <p align="center">
@@ -16,61 +16,59 @@
 
 ## 🚀 About Me
 - 🎯 Aspiring **Machine Learning / Backend Engineer**
-- 🤖 Building systems around **LLMs, RAG, and AI-driven applications**
-- ⚙️ Focused on **backend architecture, API design, and system reliability**
-- ⚛️ Experienced in **React-based frontend development**
-- 🧠 Strong foundation in **Data Structures & Problem Solving**
-- 📊 Interested in **designing scalable ML systems and real-world AI pipelines**
-- 💡 Currently working on **end-to-end AI + backend integrated systems**
+- 🤖 Building systems using **LLMs, RAG, and AI pipelines**
+- ⚙️ Focused on **backend architecture, APIs, and system reliability**
+- ⚛️ Experienced in **React frontend development**
+- 🧠 Strong in **Data Structures & Problem Solving**
+- 📊 Interested in **scalable ML systems & production AI**
+- 🔄 Currently building **end-to-end AI + backend systems**
 
 ---
 
 ## 🧠 Engineering Focus
-
-- Designing **fault-tolerant backend systems**
-- Building **LLM pipelines with structured outputs (Zod validation)**
-- Handling **file uploads, parsing, and preprocessing workflows**
-- Applying **system design principles in real-world projects**
-- Bridging **ML models with production-ready APIs**
+- 🏗️ Designing **fault-tolerant backend systems**
+- 🧩 Building **LLM pipelines with structured outputs (Zod)**
+- 📂 Managing **file uploads & preprocessing pipelines**
+- 📐 Applying **system design in real-world projects**
+- 🔗 Connecting **ML models with production APIs**
 
 ---
 
 ## 🏆 Tech Stack
 
 ### 🖥️ Programming
-- Python 🐍
-- JavaScript ⚡
-- C
-- Java
+- Python 🐍  
+- JavaScript ⚡  
+- C  
+- Java ☕  
 
 ### 🤖 Machine Learning & Data
-- Scikit-learn
-- Pandas, NumPy
-- Data Preprocessing & Feature Engineering
+- Scikit-learn 📊  
+- Pandas, NumPy  
+- Feature Engineering 🧪  
 
 ### 🧠 Deep Learning
-- TensorFlow, Keras (Basics)
-- Neural Networks
+- TensorFlow, Keras (Basics)  
+- Neural Networks 🧬  
 
 ### ⚙️ Backend Development
-- Node.js
-- Express.js
-- REST API Design (CRUD, Auth, Middleware)
-- Authentication (JWT)
-- Role-Based Access Control (RBAC)
+- Node.js 🟢  
+- Express.js 🚏  
+- REST APIs 🔗  
+- JWT Authentication 🔐  
+- RBAC 🛡️  
 
 ### ⚛️ Frontend
-- React.js
-- HTML, CSS, JavaScript
+- React.js ⚛️  
+- HTML, CSS, JavaScript 🎨  
 
 ### 🧰 Tools
-- Git & GitHub
-- Jupyter Notebook
+- Git & GitHub 🗂️  
+- Jupyter Notebook 📓  
 
 ---
 
 ## 📊 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq-Mathur35&theme=tokyonight" />
 </p>
@@ -78,7 +76,6 @@
 ---
 
 ## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishq-Mathur35&theme=tokyo-night" />
 </p>
@@ -91,48 +88,48 @@
 ### 🔹 Fintech Ledger System (Backend)
 🔗 https://github.com/Tanishq-Mathur35/fintech-ledger-system
 
-* Built a backend ledger system to manage financial transactions with consistency and accuracy
-* Implemented **double-entry accounting logic** to ensure balanced and traceable transactions
-* Designed APIs for **transaction recording, account management, and balance tracking**
-* Ensured **data integrity and atomic operations** to prevent inconsistencies in financial records
-* Structured the application using a **modular backend architecture** for scalability and maintainability
-* Handled edge cases like **concurrent updates and transaction validation**
+* 💰 Built a ledger system for accurate financial transaction tracking  
+* ⚖️ Implemented **double-entry accounting** for consistency  
+* 🔗 Designed APIs for transactions & account management  
+* 🛡️ Ensured **data integrity & atomic operations**  
+* 🧱 Modular backend for scalability  
+* ⚠️ Handled **concurrency & validation edge cases**  
 
-👉 **Tech:** Node.js, Express.js, Database (SQL/NoSQL), REST APIs
-👉 **Demonstrates:** Backend Systems + Financial Logic + Data Consistency
+👉 **Tech:** Node.js, Express.js, Database, REST APIs  
+👉 **Shows:** Backend Systems + Financial Logic  
 
 ---
 
 ### 🔹 Generative AI Project (RAG Foundation)  
 🔗 https://github.com/Tanishq-Mathur35/GenAI-Part-1  
 
-- Developed a **modular RAG pipeline** integrating embeddings with LLM workflows  
-- Used **HuggingFace / Mistral models** for context-aware text generation  
-- Built a **scalable pipeline architecture** for future AI applications  
-- Designed system for **plug-and-play model integration and extensibility**  
+- 🤖 Built a **modular RAG pipeline**  
+- 🧠 Used **HuggingFace / Mistral models**  
+- 🏗️ Designed **scalable AI architecture**  
+- 🔌 Enabled **plug-and-play model integration**  
 
-👉 **Tech:** Python, HuggingFace, LLMs, Embeddings  
-👉 **Demonstrates:** Applied GenAI + Modern AI Systems  
-  
+👉 **Tech:** Python, LLMs, Embeddings  
+👉 **Shows:** Applied GenAI Systems  
+
 ---
 
 ### 🔹 Machine Learning Projects  
 🔗 https://github.com/Tanishq-Mathur35/Machine-Learning  
 
-- Implemented ML models using **scikit-learn on real-world datasets**  
-- Performed **data preprocessing, feature engineering, and model evaluation**  
-- Worked on **classification and regression problems with performance analysis**  
+- 📊 Built ML models on real datasets  
+- 🧪 Performed preprocessing & feature engineering  
+- 📈 Evaluated models for performance  
 
-👉 **Tech:** Python, Scikit-learn, Pandas, NumPy  
-👉 **Demonstrates:** Core ML Skills (VERY IMPORTANT)  
+👉 **Tech:** Python, Scikit-learn  
+👉 **Shows:** Core ML Skills  
 
 ---
 
 ## 📌 What Makes Me Different
-- 🧠 Combine **Machine Learning + Backend + Generative AI**
-- ⚙️ Focus on **real-world, scalable system design (not just tutorials)**
-- 📈 Strong **problem-solving & continuous improvement mindset**
-- 🚀 Building **production-ready, placement-focused projects**
+- 🧠 Combine **ML + Backend + GenAI**
+- ⚙️ Focus on **real-world scalable systems**
+- 📈 Strong **problem-solving mindset**
+- 🚀 Build **production-ready projects**
 
 ---
 
@@ -142,5 +139,4 @@
 
 ---
 
----
-⭐ **Focused on building reliable AI systems and backend architectures that scale beyond prototypes**
+⭐ **Building reliable AI systems & backend architectures that scale beyond prototypes**
