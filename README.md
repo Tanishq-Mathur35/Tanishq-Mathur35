@@ -1,142 +1,116 @@
-<h1 align="center">Hi 👋, I'm Tanishq Mathur</h1>
+<div align="center">
 
-<p align="center">
-  💻 Backend Developer | 🤖 AI & LLM Engineer | ⚙️ Scalable Systems Builder
-</p>
+# Tanishq Mathur
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanishq-Mathur35&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+**Backend Engineer · AI/LLM Systems · Scalable Infrastructure**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Generative+AI+Explorer;Node.js+Backend+Developer;React+Frontend+Developer;Building+Scalable+Production+Systems">
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Tanishq-Mathur35&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Tanishq-Mathur35)
+[![GitHub](https://img.shields.io/badge/GitHub-Tanishq--Mathur35-181717?style=flat&logo=github)](https://github.com/Tanishq-Mathur35)
+[![Email](https://img.shields.io/badge/Email-tanishqmathur975%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tanishqmathur975@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 🎯 Aspiring **Machine Learning / Backend Engineer**
-- 🤖 Building systems using **LLMs, RAG, and AI pipelines**
-- ⚙️ Focused on **backend architecture, APIs, and system reliability**
-- ⚛️ Experienced in **React frontend development**
-- 🧠 Strong in **Data Structures & Problem Solving**
-- 📊 Interested in **scalable ML systems & production AI**
-- 🔄 Currently building **end-to-end AI + backend systems**
+## About
+
+I build backend systems and AI pipelines that are designed for production — not just prototypes. My work sits at the intersection of **backend engineering**, **generative AI**, and **machine learning**, with a focus on reliability, correctness, and scalable architecture.
+
+Currently deepening expertise in LLM-powered systems (RAG pipelines, structured outputs, multi-step AI workflows) while maintaining strong foundations in API design, financial systems, and data engineering.
 
 ---
 
-## 🧠 Engineering Focus
-- 🏗️ Designing **fault-tolerant backend systems**
-- 🧩 Building **LLM pipelines with structured outputs (Zod)**
-- 📂 Managing **file uploads & preprocessing pipelines**
-- 📐 Applying **system design in real-world projects**
-- 🔗 Connecting **ML models with production APIs**
+## Technical Focus
+
+| Domain | Details |
+|---|---|
+| **Backend Systems** | Fault-tolerant APIs, double-entry financial logic, RBAC, JWT auth, atomic transaction handling |
+| **AI & LLM Engineering** | RAG pipelines, embedding search, structured LLM outputs with Zod, HuggingFace/Mistral integration |
+| **Machine Learning** | Supervised learning, feature engineering, model evaluation with Scikit-learn |
+| **Frontend** | React.js, component architecture, REST API integration |
 
 ---
 
-## 🏆 Tech Stack
+## Stack
 
-### 🖥️ Programming
-- Python 🐍  
-- JavaScript ⚡  
-- C  
-- Java ☕  
+**Languages**
+`Python` `JavaScript` `C` `Java`
 
-### 🤖 Machine Learning & Data
-- Scikit-learn 📊  
-- Pandas, NumPy  
-- Feature Engineering 🧪  
+**Backend**
+`Node.js` `Express.js` `REST APIs` `JWT` `RBAC`
 
-### 🧠 Deep Learning
-- TensorFlow, Keras (Basics)  
-- Neural Networks 🧬  
+**AI / ML**
+`LLMs` `RAG` `Embeddings` `HuggingFace` `Mistral` `Scikit-learn` `Pandas` `NumPy` `TensorFlow` `Keras`
 
-### ⚙️ Backend Development
-- Node.js 🟢  
-- Express.js 🚏  
-- REST APIs 🔗  
-- JWT Authentication 🔐  
-- RBAC 🛡️  
+**Frontend**
+`React.js` `HTML` `CSS`
 
-### ⚛️ Frontend
-- React.js ⚛️  
-- HTML, CSS, JavaScript 🎨  
-
-### 🧰 Tools
-- Git & GitHub 🗂️  
-- Jupyter Notebook 📓  
+**Tools**
+`Git` `GitHub` `Jupyter Notebook`
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq-Mathur35&theme=tokyonight" />
-</p>
+## Projects
+
+### Fintech Ledger System
+> [github.com/Tanishq-Mathur35/fintech-ledger-system](https://github.com/Tanishq-Mathur35/fintech-ledger-system)
+
+A production-grade backend for financial transaction tracking built on **double-entry accounting** principles.
+
+- Designed APIs for transaction recording and account management with strict **data integrity guarantees**
+- Implemented **atomic operations** to handle concurrency and prevent partial writes
+- Built modular, extensible architecture with comprehensive validation and edge-case handling
+- Enforced consistency through double-entry logic — every debit paired with a corresponding credit
+
+**Tech:** `Node.js` `Express.js` `REST APIs`
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishq-Mathur35&theme=tokyo-night" />
-</p>
+### Generative AI — RAG Foundation
+> [github.com/Tanishq-Mathur35/GenAI-Part-1](https://github.com/Tanishq-Mathur35/GenAI-Part-1)
+
+A modular **Retrieval-Augmented Generation** pipeline built for extensibility and real-world deployment.
+
+- Architected a plug-and-play system that supports model swapping without pipeline changes
+- Integrated HuggingFace/Mistral models with embedding-based retrieval for context-aware generation
+- Designed for scalability — clear separation between retrieval, augmentation, and generation layers
+
+**Tech:** `Python` `LLMs` `Embeddings` `HuggingFace` `Mistral`
 
 ---
 
-## 📂 Featured Projects
----
+### Machine Learning Portfolio
+> [github.com/Tanishq-Mathur35/Machine-Learning](https://github.com/Tanishq-Mathur35/Machine-Learning)
 
-### 🔹 Fintech Ledger System (Backend)
-🔗 https://github.com/Tanishq-Mathur35/fintech-ledger-system
+Applied ML projects covering the full model development lifecycle on real-world datasets.
 
-* 💰 Built a ledger system for accurate financial transaction tracking  
-* ⚖️ Implemented **double-entry accounting** for consistency  
-* 🔗 Designed APIs for transactions & account management  
-* 🛡️ Ensured **data integrity & atomic operations**  
-* 🧱 Modular backend for scalability  
-* ⚠️ Handled **concurrency & validation edge cases**  
+- Data preprocessing, feature engineering, and model selection
+- Performance evaluation with cross-validation and metric analysis
+- Documented experiments and reproducible notebooks
 
-👉 **Tech:** Node.js, Express.js, Database, REST APIs  
-👉 **Shows:** Backend Systems + Financial Logic  
+**Tech:** `Python` `Scikit-learn` `Pandas` `NumPy`
 
 ---
 
-### 🔹 Generative AI Project (RAG Foundation)  
-🔗 https://github.com/Tanishq-Mathur35/GenAI-Part-1  
+## GitHub Stats
 
-- 🤖 Built a **modular RAG pipeline**  
-- 🧠 Used **HuggingFace / Mistral models**  
-- 🏗️ Designed **scalable AI architecture**  
-- 🔌 Enabled **plug-and-play model integration**  
+<div align="center">
 
-👉 **Tech:** Python, LLMs, Embeddings  
-👉 **Shows:** Applied GenAI Systems  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq-Mathur35&theme=tokyonight&hide_border=true)](https://github.com/Tanishq-Mathur35)
 
----
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanishq-Mathur35&theme=tokyo-night&hide_border=true)](https://github.com/Tanishq-Mathur35)
 
-### 🔹 Machine Learning Projects  
-🔗 https://github.com/Tanishq-Mathur35/Machine-Learning  
-
-- 📊 Built ML models on real datasets  
-- 🧪 Performed preprocessing & feature engineering  
-- 📈 Evaluated models for performance  
-
-👉 **Tech:** Python, Scikit-learn  
-👉 **Shows:** Core ML Skills  
+</div>
 
 ---
 
-## 📌 What Makes Me Different
-- 🧠 Combine **ML + Backend + GenAI**
-- ⚙️ Focus on **real-world scalable systems**
-- 📈 Strong **problem-solving mindset**
-- 🚀 Build **production-ready projects**
+## Contact
+
+**Email:** [tanishqmathur975@gmail.com](mailto:tanishqmathur975@gmail.com)
+**GitHub:** [github.com/Tanishq-Mathur35](https://github.com/Tanishq-Mathur35)
 
 ---
 
-## 📫 Contact
-- 📧 Email: **tanishqmathur975@gmail.com**
-- 🌐 GitHub: https://github.com/Tanishq-Mathur35
-
----
-
-⭐ **Building reliable AI systems & backend architectures that scale beyond prototypes**
+<div align="center">
+<sub>Building reliable systems at the intersection of backend engineering and applied AI.</sub>
+</div>
