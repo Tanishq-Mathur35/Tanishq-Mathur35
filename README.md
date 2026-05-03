@@ -6,6 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tanishq-Mathur35&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Tanishq-Mathur35)
 [![GitHub](https://img.shields.io/badge/GitHub-Tanishq--Mathur35-181717?style=flat&logo=github)](https://github.com/Tanishq-Mathur35)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanishq--mathur-0e75b6?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-tanishq.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-tanishqmathur975%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tanishqmathur975@gmail.com)
 
 </div>
@@ -109,6 +110,7 @@ Applied ML projects covering the full model development lifecycle on real-world 
 
 **Email:** [tanishqmathur975@gmail.com](mailto:tanishqmathur975@gmail.com)
 **GitHub:** [github.com/Tanishq-Mathur35](https://github.com/Tanishq-Mathur35)
+**Portfolio:** [portfolio-website-tanishq.vercel.app](https://portfolio-website-tanishq.vercel.app/)
 
 ---
 
