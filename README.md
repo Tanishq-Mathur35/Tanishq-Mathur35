@@ -98,7 +98,7 @@ Applied ML projects covering the full model development lifecycle on real-world 
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tanishq-Mathur35&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Tanishq-Mathur35)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-Mathur35&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Tanishq-Mathur35)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tanishq-Mathur35&layout=compact)](https://github.com/Tanishq-Mathur35)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanishq-Mathur35&theme=tokyo-night&hide_border=true)](https://github.com/Tanishq-Mathur35)
 
