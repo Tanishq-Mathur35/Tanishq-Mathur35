@@ -109,7 +109,9 @@ Applied ML projects covering the full model development lifecycle on real-world 
 ## Contact
 
 **Email:** [tanishqmathur975@gmail.com](mailto:tanishqmathur975@gmail.com)
+
 **GitHub:** [github.com/Tanishq-Mathur35](https://github.com/Tanishq-Mathur35)
+
 **Portfolio:** [portfolio-website-tanishq.vercel.app](https://portfolio-website-tanishq.vercel.app/)
 
 ---
